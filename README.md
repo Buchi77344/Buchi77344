@@ -49,24 +49,11 @@
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Timi&theme=radical&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Buchi77344&theme=radical&hide_border=true" alt="streak"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOURMAIL@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
 
----
 
-⭐️ From [Timi](https://github.com/Timi)
+⭐️ From [Timi](https://github.com/Buchi77344)
