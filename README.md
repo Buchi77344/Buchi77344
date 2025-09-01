@@ -15,7 +15,12 @@
 - 👯 Open to collaborating on **innovative projects** and contributing to the **open-source community**  
 - 💬 Let’s talk about **JavaScript, React, Python, Django, Flutter, and REST APIs**  
 - 🚀 Passionate about creating **scalable, user-friendly, and impactful digital products**  
-- ⚡ Fun fact: *I enjoy turning complex ideas into simple, elegant solutions!*  
+- ⚡ Fun fact: *I enjoy turning complex ideas into simple, elegant solutions!*
+
+  ### 📬 Contact Me  
+- 📧 Email: [onyebuchifestus77@gmail.com](mailto:onyebuchifestus77@gmail.com)  
+- 💬 WhatsApp: [Chat with me](https://wa.me/2348135495049)  
+
 
 ---
 
@@ -47,10 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buchi77344&layout=compact&theme=radical&langs_count=8" alt="Buchi's top languages" width="360" />
 </p>
 
-### 📬 Contact Me  
-- 📧 Email: [onyebuchifestus77@gmail.com](mailto:onyebuchifestus77@gmail.com)  
-- 💬 WhatsApp: [Chat with me](https://wa.me/2348135495049)  
-- *🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)* *(optional but recommended)*  
+ 
 
 ---
 
