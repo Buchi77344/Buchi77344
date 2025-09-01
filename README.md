@@ -49,10 +49,12 @@
 
 ---
 
-### 🔥 Contribution Streak
+###  Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Buchi77344&theme=radical&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Buchi77344&theme=radical&hide_border=true" alt="Contribution streak" width="360" />
 </p>
+
 
 ---
 
