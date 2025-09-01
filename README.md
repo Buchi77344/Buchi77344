@@ -9,12 +9,13 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **awesome full-stack projects**  
-- 🌱 I’m learning **React, Django, and Flutter**  
-- 👯 I’m looking to collaborate on **open source projects**  
-- 💬 Ask me about **JavaScript, React, Python, and APIs**  
-- ⚡ Fun fact: *I love building things that solve real-world problems!*  
+### 👨‍💻 About Me  
+- 🔭 Currently building **full-stack applications** that solve real-world business challenges  
+- 🌱 Growing my skills in **React, Django, and Flutter** to deliver web and mobile solutions  
+- 👯 Open to collaborating on **innovative projects** and contributing to the **open-source community**  
+- 💬 Let’s talk about **JavaScript, React, Python, Django, Flutter, and REST APIs**  
+- 🚀 Passionate about creating **scalable, user-friendly, and impactful digital products**  
+- ⚡ Fun fact: *I enjoy turning complex ideas into simple, elegant solutions!*  
 
 ---
 
@@ -46,6 +47,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buchi77344&layout=compact&theme=radical&langs_count=8" alt="Buchi's top languages" width="360" />
 </p>
 
+### 📬 Contact Me  
+- 📧 Email: [onyebuchifestus77@gmail.com](mailto:onyebuchifestus77@gmail.com)  
+- 💬 WhatsApp: [Chat with me](https://wa.me/2348135495049)  
+- *🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)* *(optional but recommended)*  
 
 ---
 
