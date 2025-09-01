@@ -57,7 +57,15 @@
 
 
 ---
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Buchi77344&theme=radical&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies"/>
+</p>
 
-
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buchi77344&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+---
 
 ⭐️ From [Timi](https://github.com/Buchi77344)
