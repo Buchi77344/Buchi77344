@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Timi&show_icons=true&theme=radical" alt="Timi stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timi&layout=compact&theme=radical" alt="top languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Buchi77344&show_icons=true&theme=radical" alt="Timi stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buchi77344&layout=compact&theme=radical" alt="top languages" height="170"/>
 </p>
 
 ---
